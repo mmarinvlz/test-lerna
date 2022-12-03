@@ -1,6 +1,6 @@
 {
   "name": "@mxrzl-my-first-npm-component/button",
-  "version": "1.0.1-alpha.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "mmarinv <marko.9310@gmail.com>",
   "homepage": "",
@@ -18,6 +18,5 @@
   },
   "publishConfig": {
     "access": "public"
-  },
-  "gitHead": "7fe871a86514fd692eff21032437a78eaa50922e"
+  }
 }
