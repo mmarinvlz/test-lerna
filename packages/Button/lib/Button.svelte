@@ -1,6 +1,6 @@
 <script>
-  import './button.css';
   import { createEventDispatcher } from 'svelte';
+  import './button.css';
   /**
    * Is this the principal call to action on the page?
    */
@@ -32,6 +32,8 @@
     dispatch('click', event);
   }
 </script>
+
+<svelte:options tag="sm-ui-button" />
 
 <button
   type="button"

@@ -3,7 +3,7 @@
   "version": "2.0.1",
   "description": "> TODO: description",
   "author": "mmarinv <marko.9310@gmail.com>",
-  "homepage": "",
+  "homepage": "https://github.com/mxrkoamv/test-lerna#readme",
   "license": "ISC",
   "main": "lib/Button.js",
   "directories": {
@@ -19,5 +19,11 @@
   "publishConfig": {
     "access": "public"
   },
-  "gitHead": "52296341aa70bf5a9613293a0705808660ca20e0"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxrkoamv/test-lerna.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mxrkoamv/test-lerna/issues"
+  }
 }
