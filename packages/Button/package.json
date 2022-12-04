@@ -1,5 +1,5 @@
 {
-  "name": "@mxrzl-my-first-npm-component/button",
+  "name": "@mmarintest/button",
   "version": "2.0.0",
   "description": "> TODO: description",
   "author": "mmarinv <marko.9310@gmail.com>",
@@ -18,5 +18,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "52296341aa70bf5a9613293a0705808660ca20e0"
 }
